@@ -2,7 +2,7 @@
 
 The server side of an online store. It stores users and products, handles secure login, and controls who can access what.
 
-Built in 2021 in Yangon, Myanmar, as a self-taught project during internet shutdowns and power cuts after the military coup. Uploaded to GitHub in 2026.
+Built in June - October 2022 in Yangon, Myanmar, as a self-taught project during internet shutdowns and power cuts after the military coup. Uploaded to GitHub in 2026.
 
 ## Features
 - REST API with routes for users, categories, sub-categories, products, roles, and permissions
